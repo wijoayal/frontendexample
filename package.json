@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
-    "test": "mocha",
-    "postinstall": "bower install && grunt build"
+    "test": "mocha"
   },
   "author": "acollag",
   "license": "ISC",
