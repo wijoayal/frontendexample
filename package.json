@@ -4,8 +4,8 @@
   "description": "ASSR APP",
   "main": "index.js",
   "scripts": {
-    "start": "node server.js",
-    "test": "mocha"
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "acollag",
   "license": "ISC",
